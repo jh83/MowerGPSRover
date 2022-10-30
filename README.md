@@ -2,9 +2,7 @@
 
 An ESP32 based Ublox ZED-F9P *rover*. This has been built as a tracker to be placed on my robotic lawn mower and to collect data on how it mowes.
 
-[![Hardware](mower_hardware.png)](mower_hardware.png)
-
-![NTRIP-Server_ESP32-PoE-BaseStation](https://)
+[![Hardware]](mower_hardware.png)
 
 More information can be found here: [Robotic Mower Statistics](https://www.joholtech.com/blog/2022/10/28/mowerstatistics.html)
 
